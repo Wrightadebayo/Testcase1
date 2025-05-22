@@ -1,0 +1,14 @@
+{
+  "name": "hellocypress",
+  "version": "1.0.0",
+  "description": "wright cypress automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yousefwright",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.4.0"
+  }
+}
